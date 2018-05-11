@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:319px;
+  width:320px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -16,21 +16,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:321px;
+  width:320px;
   height:45px;
 }
 #u179 {
   position:absolute;
-  left:0px;
-  top:20px;
-  width:320px;
+  left:1px;
+  top:0px;
+  width:319px;
   height:44px;
 }
 #u180 {
   position:absolute;
   left:2px;
   top:14px;
-  width:316px;
+  width:315px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -38,15 +38,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
-  height:19px;
+  width:30px;
+  height:17px;
 }
 #u181 {
   position:absolute;
-  left:35px;
-  top:34px;
-  width:30px;
-  height:18px;
+  left:36px;
+  top:14px;
+  width:29px;
+  height:16px;
   color:#FFFFFF;
 }
 #u182 {
@@ -54,20 +54,20 @@
   left:0px;
   top:0px;
   width:29px;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
 #u183_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:176px;
+  width:175px;
   height:20px;
 }
 #u183 {
   position:absolute;
-  left:75px;
-  top:35px;
-  width:175px;
+  left:76px;
+  top:15px;
+  width:174px;
   height:19px;
   font-size:16px;
   color:#FFFFFF;
@@ -77,28 +77,28 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:175px;
+  width:174px;
   word-wrap:break-word;
 }
 #u185_img {
   position:absolute;
   left:0px;
   top:0px;
-  width:322px;
-  height:507px;
+  width:321px;
+  height:505px;
 }
 #u185 {
   position:absolute;
-  left:-1px;
-  top:64px;
-  width:321px;
-  height:506px;
+  left:0px;
+  top:44px;
+  width:320px;
+  height:504px;
 }
 #u186 {
   position:absolute;
   left:2px;
-  top:245px;
-  width:317px;
+  top:244px;
+  width:316px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -111,8 +111,8 @@
 }
 #u187 {
   position:absolute;
-  left:18px;
-  top:33px;
+  left:19px;
+  top:13px;
   width:9px;
   height:15px;
 }
@@ -126,8 +126,8 @@
 }
 #u189 {
   position:absolute;
-  left:15px;
-  top:33px;
+  left:16px;
+  top:13px;
   width:50px;
   height:19px;
   overflow:hidden;
@@ -137,21 +137,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:320px;
-  height:216px;
+  width:319px;
+  height:215px;
 }
 #u190 {
   position:absolute;
-  left:0px;
-  top:352px;
-  width:320px;
-  height:216px;
+  left:1px;
+  top:331px;
+  width:319px;
+  height:215px;
 }
 #u191 {
   position:absolute;
   left:2px;
   top:100px;
-  width:316px;
+  width:315px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -166,21 +166,21 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:321px;
+  width:320px;
   height:51px;
 }
 #u193 {
   position:absolute;
-  left:0px;
-  top:519px;
-  width:320px;
+  left:1px;
+  top:497px;
+  width:319px;
   height:50px;
 }
 #u194 {
   position:absolute;
   left:2px;
   top:17px;
-  width:316px;
+  width:315px;
   visibility:hidden;
   word-wrap:break-word;
 }
@@ -188,36 +188,36 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:241px;
+  width:240px;
   height:31px;
 }
 #u195 {
   position:absolute;
-  left:20px;
-  top:529px;
-  width:240px;
+  left:21px;
+  top:507px;
+  width:239px;
   height:30px;
 }
 #u196 {
   position:absolute;
   left:2px;
   top:7px;
-  width:236px;
+  width:235px;
   visibility:hidden;
   word-wrap:break-word;
 }
 #u197 {
   position:absolute;
-  left:27px;
-  top:531px;
-  width:230px;
+  left:28px;
+  top:509px;
+  width:229px;
   height:26px;
 }
 #u197_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:230px;
+  width:229px;
   height:26px;
   background-color:#CACACA;
   font-family:'Arial Normal', 'Arial';
@@ -234,15 +234,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:31px;
-  height:19px;
+  width:30px;
+  height:17px;
 }
 #u198 {
   position:absolute;
   left:272px;
-  top:535px;
-  width:30px;
-  height:18px;
+  top:513px;
+  width:29px;
+  height:16px;
   color:rgba(102, 102, 102, 0.349019607843137);
 }
 #u198_img.selected {
@@ -254,5 +254,5 @@
   left:0px;
   top:0px;
   width:29px;
-  white-space:nowrap;
+  word-wrap:break-word;
 }
